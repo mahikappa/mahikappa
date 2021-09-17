@@ -1,5 +1,4 @@
-- 🙌 🤠 Hi, I’m @mahikappa
-- 🧠 📊 I’m interested in human behavior and statistics
+- 🧠 📊 Interested in human behavior and statistics
 - 🏫 ➡️ 💻 Currently transitioning from academia to data science
 
 <!---
