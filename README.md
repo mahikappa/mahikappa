@@ -1,4 +1,4 @@
-- 🧠 📊 Interested in human behavior and statistics
+- 🧠 📊 Interested in data analysis, data visualization, human behavior and statistics
 - 🏫 ➡️ 💻 Currently transitioning from academia to data science
 
 <!---
